@@ -87,3 +87,7 @@ footer {
 */
 
 /* Write your CSS here */
+blockquote {
+  float: left;
+  width: 300px;
+}
