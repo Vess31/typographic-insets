@@ -91,3 +91,12 @@ blockquote {
   float: left;
   width: 300px;
 }
+
+figure {
+  float: right;
+  width: 300px;
+}
+
+figcaption {
+  font-style: italic;
+}
